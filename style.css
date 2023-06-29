@@ -226,7 +226,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../images/coffee-beans-dark-background-top-view-coffee-concept.jpg);
+    background: url(./images/coffee-beans-dark-background-top-view-coffee-concept.jpg);
     background-size: cover;
     background-position: center;
     /* background-color: rgba(55, 9, 9, 0); */
